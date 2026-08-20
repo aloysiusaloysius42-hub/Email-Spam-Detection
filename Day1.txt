@@ -1,0 +1,21 @@
+PROJECT TITLE:
+Email Spam Detection
+
+AI/ML TYPE:
+Supervised Machine Learning – Classification
+
+PROBLEM STATEMENT:
+
+Spam emails are unwanted messages that may contain advertisements, misleading information, or harmful content. Identifying spam emails manually can be difficult and time-consuming when there are a large number of emails.
+
+This project aims to develop a machine learning model that automatically classifies emails as Spam or Not Spam (Ham) using relevant email information and content.
+
+OBJECTIVE:
+
+The objective of this project is to build a supervised machine learning classification model that predicts whether an email is Spam or Not Spam based on relevant features such as email text, words, and other email-related information.
+
+The project will involve data preprocessing, data analysis, feature identification, model building, and evaluation to achieve accurate spam email classification.
+
+EXPECTED OUTCOME:
+
+The expected outcome is a machine learning model that takes email-related information as input and predicts whether the email is Spam or Not Spam.
